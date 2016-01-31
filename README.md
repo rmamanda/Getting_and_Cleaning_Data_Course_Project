@@ -5,7 +5,7 @@ The purpose of this project is to demonstrate abilities to collect, work with, a
 
 ## Dataset
 
-This assignment uses data from <a href="https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip">UCI - Human Activity Recognition Using Smartphones Data Set </a> collected from the accelerometers from the Samsung Galaxy S smartphone. Full description <a href="http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones>"here</a>.
+This assignment uses data from <a href="https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip">UCI - Human Activity Recognition Using Smartphones Data Set </a> collected from the accelerometers from the Samsung Galaxy S smartphone. Full description <a href="http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones">here</a>.
 
 ## Assignment
 

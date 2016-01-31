@@ -5,7 +5,7 @@ This Code Book describes the variables, the data, and any transformations or wor
 ## Datasource 
 
 Original data: <a href="https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip">UCI - Human Activity Recognition Using Smartphones Data Set </a>
-Full description <a href="http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones>"here</a>.
+Full description <a href="http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones">here</a>.
 
 ## Data 
 
