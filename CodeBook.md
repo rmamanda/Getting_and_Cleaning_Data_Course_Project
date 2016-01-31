@@ -54,7 +54,7 @@ These signals were used to estimate variables of the feature vector for each pat
 - Download the dataset file and unzip it on your Working Directory.
 - Install and load packages plyr and dplyr
 - Load data from files into datasets using read.table(header = FALSE, sep=""):  
-  *UCI HAR Dataset/features.txt into features  
+  * UCI HAR Dataset/features.txt into features  
   *UCI HAR Dataset/activity_labels.txt into activity_labels  
   *UCI HAR Dataset/train/subject_train.txt into subject_train  
   *UCI HAR Dataset/train/x_train.txt into x_train  
