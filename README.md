@@ -19,14 +19,14 @@ This assignment uses data from <a href="https://d396qusza40orc.cloudfront.net/ge
 
 run_Analysis.R - R script, executes all steps described on Assignment item.  
 tidy_data.txt - Output from R script, tidy data result from step 5.  
-CodeBook.md  
+CodeBook.md  - CodeBook for Run_Analysis.R
 
 ## Execution
 
 Download the dataset and unzip it on your Working Directory, folder UCI HAR Dataset folder.  
 Place file run_Analysis.R from this repository on your Working Directory.  
-On RStudio, setup your Working Directory (```setwd´´) and execute ```source("run_Analysis.R")´´´.  
-Script run_Analysis.R creates ```tidy_data.txt´´´, running all steps described on Assignment item.  
+On RStudio, setup your Working Directory (`setwd´) and execute `source("run_Analysis.R")´.  
+Script run_Analysis.R creates `tidy_data.txt´, running all steps described on Assignment item.  
 
 ## Dependencies
 Script file installs and loads packages plyr and dplyr. 
