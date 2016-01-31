@@ -25,8 +25,8 @@ CodeBook.md  - CodeBook for Run_Analysis.R
 
 Download the dataset and unzip it on your Working Directory, folder UCI HAR Dataset folder.  
 Place file run_Analysis.R from this repository on your Working Directory.  
-On RStudio, setup your Working Directory (`setwd´) and execute `source("run_Analysis.R")´.  
-Script run_Analysis.R creates `tidy_data.txt´, running all steps described on Assignment item.  
+On RStudio, setup your Working Directory (`setwd`) and execute `source("run_Analysis.R")`.  
+Script run_Analysis.R creates `tidy_data.txt`, running all steps described on Assignment item.  
 
 ## Dependencies
 Script file installs and loads packages plyr and dplyr. 
