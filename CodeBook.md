@@ -73,14 +73,14 @@ These signals were used to estimate variables of the feature vector for each pat
 - Merge dataset subject_train, y_train and x_train into merge_train dataset
 - Merge dataset subject_test, y_test and x_test into merge_test dataset
 - Merge dataset merge_train and merge_test into merge_all
-- Find itens that contains mean() or std() on features dataset, 
+- Find itens that contains mean() or std() on features dataset,
 - Select from the merge_all dataset that match the itens found on the previous taks, includind subject and activity info.
 - On the new dataset replace the activity info, that is currently and id, by the activity label, usign activity_labels dataset.
 - On the new dataset rename the variables considering the names on features dataset, considering the following:
--- Remove special characters "," "(" ")" ","
-- Prefix with "time" all the features that starts with "t"
--- Prefix with "frequency" all the features that starts with "f"
--- Lower Case
+  * Remove special characters "," "(" ")" ","
+  * Prefix with "time" all the features that starts with "t"
+  * Prefix with "frequency" all the features that starts with "f"
+  * Lower Case
 - On the new dataset calculate the mean on all features column, grouping by subject and activity, store it in tidy_data dataset
 - Write tidy_data on a text file
 
