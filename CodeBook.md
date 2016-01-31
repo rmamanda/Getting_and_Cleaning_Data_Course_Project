@@ -54,22 +54,22 @@ These signals were used to estimate variables of the feature vector for each pat
 - Download the dataset file and unzip it on your Working Directory.
 - Install and load packages plyr and dplyr
 - Load data from files into datasets using read.table(header = FALSE, sep=""):  
-..*UCI HAR Dataset/features.txt into features  
-..*UCI HAR Dataset/activity_labels.txt into activity_labels  
-..*UCI HAR Dataset/train/subject_train.txt into subject_train  
-..*UCI HAR Dataset/train/x_train.txt into x_train  
-..*UCI HAR Dataset/train/y_train.txt into y_train  
-..*UCI HAR Dataset/test/subject_test.txt into subject_test  
-..*UCI HAR Dataset/test/x_test.txt into x_test  
-..*UCI HAR Dataset/test/y_test.txt into y_test  
+  *UCI HAR Dataset/features.txt into features  
+  *UCI HAR Dataset/activity_labels.txt into activity_labels  
+  *UCI HAR Dataset/train/subject_train.txt into subject_train  
+  *UCI HAR Dataset/train/x_train.txt into x_train  
+  *UCI HAR Dataset/train/y_train.txt into y_train  
+  *UCI HAR Dataset/test/subject_test.txt into subject_test  
+  *UCI HAR Dataset/test/x_test.txt into x_test  
+  *UCI HAR Dataset/test/y_test.txt into y_test  
 - Check all datasets with str, class	
 - Rename the columns on datasets:  
-..*features to "id", "name"  
-..*activity_labels to "id", "name"  
-..*subject_train to "subject"   
-..*y_train to "activity"  
-..*subject_test to "subject"  
-..*y_test to "activity"  
+  *features to "id", "name"  
+  *activity_labels to "id", "name"  
+  *subject_train to "subject"   
+  *y_train to "activity"  
+  *subject_test to "subject"  
+  *y_test to "activity"  
 - Merge dataset subject_train, y_train and x_train into merge_train dataset
 - Merge dataset subject_test, y_test and x_test into merge_test dataset
 - Merge dataset merge_train and merge_test into merge_all
