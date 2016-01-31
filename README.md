@@ -19,7 +19,7 @@ This assignment uses data from <a href="https://d396qusza40orc.cloudfront.net/ge
 
 run_Analysis.R - R script, executes all steps described on Assignment item.  
 tidy_data.txt - Output from R script, tidy data result from step 5.  
-CodeBook.md  - CodeBook for Run_Analysis.R
+CodeBook.md  - Code Book for Run_Analysis.R
 
 ## Execution
 
